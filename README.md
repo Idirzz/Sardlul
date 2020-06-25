@@ -13,6 +13,6 @@ Afin de charger plus de résultat, un bouton est prévu à cet effet
 ![Screenshot](./screens/fullscreenloaded.png)
 
 L'heure du début du match ainsi que la date est calculé puis affiché quand on hover "il y a.."
-éxemple avec un autre profil
+exemple avec un autre profil
 
 ![Screenshot](./screens/fullscreenhover.png)
