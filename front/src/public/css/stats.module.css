@@ -1,0 +1,97 @@
+p{
+    color : rgb(201, 201, 201);
+}
+
+.maindiv{
+    margin-top: 40px;
+    margin-left: 10%;
+    justify-content: center;
+    width: 80%;
+    display: flex;
+}
+
+.stats{
+    padding-bottom : 35px;
+    padding-top : 20px;
+    margin-right: 1%;
+    height: 100%;
+    border : 2px solid rgb(36, 36, 36);
+    display: grid;
+    border-radius: 4px;
+    background-color: rgb(24, 24, 24);
+    grid-gap: 10px;
+}
+
+.username{
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 5px;
+    font-weight: Medium;
+    font-size: 26px;
+    font-family: Tahoma;
+    align-self: center;
+    justify-self: center;
+}
+
+.img{
+    align-self: center;
+    justify-self: center;
+    display: grid;
+}
+
+.summimg{
+    align-self: center;
+    justify-self: center;
+    max-width: 100px;
+    width: 12.2vw;
+    border-radius: 50%;
+    grid-column: 1 / 1;
+    grid-row: 1 / 1;
+}
+
+.borderimg{
+    align-self: center;
+    justify-self: center;
+    width: 20vw;
+    max-width: 160px;
+    grid-column: 1 / 1;
+    grid-row: 1 / 1;
+}
+
+.summlevel{
+    font-weight: 800;
+    font-size: 1.3vw;
+    color : rgb(131, 85, 0);
+    grid-column: 1;
+    grid-row: 1;
+    margin-top: 15.3vw;
+    margin-left: 9vw;
+}
+
+@media screen and (min-width: 800px) {
+    .summlevel {
+       margin-top: 123px;
+       margin-left: 73px;
+       font-size: 11px;
+    } 
+ }
+
+.rankedstats{
+    padding: 9px;
+    display: grid;
+    align-self: center;
+    justify-self: center;
+}
+
+.rankedstatschild{
+    font-weight: 600;
+    padding-top: 50px;
+    align-self: center;
+    justify-self: center;
+}
+
+.rankedstatqueue{
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 10px;
+}
