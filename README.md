@@ -2,6 +2,8 @@
 Voici Sardlul,
 
 Celui ci affiche l'historique d'un utilisateur inscrit dans l'URL, avec divers détails,
+informations que je vais chercher via [l'API de riot games](https://developer.riotgames.com/)
+toute les images sont trouvée depuis [ddragon](https://riot-api-libraries.readthedocs.io/en/latest/ddragon.html) fourni par riot
 
 projet uniquement réalisé en React / Node
 
